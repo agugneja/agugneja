@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agugneja
-- 👀 I’m interested in game development, product management, and data analytics
+- 👀 I’m interested in game development, security engineering, and data analytics.
 - 🌱 I’m currently learning everything!
 - 📫 How to reach me: by email at agugneja@gmail.com
 <!---
